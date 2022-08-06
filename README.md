@@ -1,8 +1,8 @@
+## JS 알고리즘 문제 마라톤(스터디)
+
 ![image](https://user-images.githubusercontent.com/85295433/183236868-42666b1e-e6b2-4416-a3c4-57db929a40ad.png)
 ![image](https://user-images.githubusercontent.com/85295433/183237039-49b3e2e5-5833-477d-8b32-a5ba3d048205.png)
 
-
-## JS 알고리즘 문제 마라톤(스터디)
 
 ## 진행방식.
 - 프로그래머스 난이도별 문제 공부 + 간단한 문제를 풀이 > 코드리뷰
